@@ -10,9 +10,7 @@ as a discount).
 6. A user can get only one of the percentage based discounts on a bill.
 
 ## UML Digram
-
-- [UML Digram] (https://drive.google.com/file/d/1XO2kuwHnDCXG5_E5h3vXIx6t95EMzKDp/view?usp=sharing)
-
+Outside the Project :Shared in the path 
 ## Requirements
 
 For building and running the application you need:
@@ -45,6 +43,3 @@ java -jar target/*.jar
 ```
 
 
-
-## License
-This project is licensed under the terms of the [MIT license](LICENSE).
